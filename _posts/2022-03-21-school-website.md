@@ -3,7 +3,7 @@ title: 5 Steps to Make a Website
 categories:
 - Progamming 
 excerpt: | 
-Although it only had been a few month that I have started programming, I got an amazing chance to develop a student website for our school from a teacher's suggestion in April.
+  Although it only had been a few month that I have started programming, I     got an amazing chance to develop a student website for our school from a     teacher's suggestion in April.
   
 feature_text: |
   ## Developing School Website
