@@ -8,7 +8,6 @@ excerpt:
  depends on the type of data being collected.
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
-- **Table of contents**
 
 # Collecting Data
 
